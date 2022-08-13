@@ -1,7 +1,6 @@
-git status
-
-olor: aquamarine;
+div {
+    color: rgb(6, 62, 43);
     font-size: large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: orange;
+    background-color: blue;
 }
